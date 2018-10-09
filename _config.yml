@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 --- !clarkevans.com/^invoice
 invoice: 34843
 date   : 2001-01-23
